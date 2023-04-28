@@ -5,6 +5,7 @@
 {"Link": "\nPiso en calle de Pujades, El Poblenou, Barcelona\n", "Price": "925.530", "Parking": null, "Description_1": "3 hab.", "Description_2": "89 m\u00b2", "Description_3": "Planta 5\u00aa "}
 {"Link": "\nPiso en La Vila Ol\u00edmpica del Poblenou, Barcelona\n", "Price": "925.000", "Parking": "Garaje incluido", "Description_1": "3 hab.", "Description_2": "133 m\u00b2", "Description_3": "Planta 3\u00aa exterior con ascensor"}
 {"Link": "\nPiso en calle Dr. Trueta, 138, El Poblenou, Barcelona\n", "Price": "915.000", "Parking": null, "Description_1": "3 hab.", "Description_2": "126 m\u00b2", "Description_3": "Planta 4\u00aa exterior con ascensor"}
+{"Link": "\nChalet adosado en La Vila Ol\u00edmpica del Poblenou, Barcelona\n", "Price": "900.000", "Parking": "Garaje incluido", "Description_1": "4 hab.", "Description_2": "178 m\u00b2", "Description_3": null}
 {"Link": "\n\u00c1tico en calle de Pere IV, El Poblenou, Barcelona\n", "Price": "895.000", "Parking": "Garaje ", "Description_1": "3 hab.", "Description_2": "140 m\u00b2", "Description_3": "Planta 6\u00aa exterior con ascensor"}
 {"Link": "\nPiso en calle de la Jonquera, El Poblenou, Barcelona\n", "Price": "895.000", "Parking": "Garaje incluido", "Description_1": "3 hab.", "Description_2": "94 m\u00b2", "Description_3": "Planta 3\u00aa exterior con ascensor"}
 {"Link": "\nChalet adosado en La Vila Ol\u00edmpica del Poblenou, Barcelona\n", "Price": "895.000", "Parking": "Garaje incluido", "Description_1": "4 hab.", "Description_2": "179 m\u00b2", "Description_3": null}
@@ -27,7 +28,6 @@
 {"Link": "\nEstudio en calle de Pere IV, El Parc i la Llacuna del Poblenou, Barcelona\n", "Price": "750.000", "Parking": null, "Description_1": "167 m\u00b2", "Description_2": "Planta 7\u00aa exterior con ascensor", "Description_3": null}
 {"Link": "\n\u00c1tico en calle de Pere IV, El Parc i la Llacuna del Poblenou, Barcelona\n", "Price": "750.000", "Parking": null, "Description_1": "2 hab.", "Description_2": "145 m\u00b2", "Description_3": "Planta 7\u00aa exterior con ascensor"}
 {"Link": "\nPiso en calle del Taulat, s/n, El Poblenou, Barcelona\n", "Price": "750.000", "Parking": null, "Description_1": "4 hab.", "Description_2": "112 m\u00b2", "Description_3": "Planta 1\u00aa "}
-{"Link": "\nPiso en calle Dr. Trueta, 138, El Poblenou, Barcelona\n", "Price": "750.000", "Parking": null, "Description_1": "3 hab.", "Description_2": "109 m\u00b2", "Description_3": "Planta 1\u00aa exterior con ascensor"}
 {"Link": "\n\u00c1tico en calle de Vidal i de Valenciano, El Poblenou, Barcelona\n", "Price": "3.500.000", "Parking": "Garaje incluido", "Description_1": "3 hab.", "Description_2": "190 m\u00b2", "Description_3": "Planta 15\u00aa exterior con ascensor"}
 {"Link": "\n\u00c1tico en El Poblenou, Barcelona\n", "Price": "1.900.000", "Parking": "Garaje incluido", "Description_1": "2 hab.", "Description_2": "152 m\u00b2", "Description_3": "Planta 14\u00aa exterior con ascensor"}
 {"Link": "\n\u00c1tico en El Poblenou, Barcelona\n", "Price": "1.900.000", "Parking": "Garaje incluido", "Description_1": "2 hab.", "Description_2": "134 m\u00b2", "Description_3": "Planta 14\u00aa exterior con ascensor"}
